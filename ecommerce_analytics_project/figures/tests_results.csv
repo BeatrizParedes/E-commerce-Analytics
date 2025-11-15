@@ -1,0 +1,11 @@
+teste,H0,H1,estatistica,p_valor,metodo,nota
+Frete ~ Services,média igual,difere,48.55481569602257,5.479163284003628e-20,ANOVA,
+Normalidade do Ticket,distribuição normal,não-normal,0.9600332456905414,2.098057928643809e-10,Shapiro–Wilk (amostra),
+Atraso médio > 0?,μ ≤ 0,μ > 0,6.31234817204796,3.0383462412686413e-10,t-test unilateral,
+Desconto x Ticket,rho = 0,rho != 0,-0.12874662050733457,0.00393074794244373,Spearman,
+Atraso x Services,proporção de atraso igual entre serviços,difere entre serviços,2.973654320839418,0.2260888624251945,Qui-quadrado (multi-grupo),
+Lead time Standard vs Same-Day,médias iguais,médias diferentes,-1.0753213858358788,0.28299767140169674,t-test Welch,
+Cancelamento: Boleto > PIX?,p_boleto - p_pix = 0,> 0,-0.5033163657405085,0.6926290690309764,z-proporções unilateral,
+Cancelamento x payment,independência entre status e payment,associação entre status e payment,1.0436354310677605,0.7906950995073811,Qui-quadrado de independência,
+ANOVA Ticket ~ payment,médias de Total iguais entre payments,ao menos um payment difere,0.19183658483356203,0.9019594875976036,ANOVA (one-way),
+Contagem diária ~ Poisson?,segue Poisson(λ),não segue Poisson,-0.8210347752332487,,Diagnóstico: média≈variância; QQ-plot recomendado,

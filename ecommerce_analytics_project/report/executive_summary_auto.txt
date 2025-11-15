@@ -1,0 +1,4 @@
+Ticket médio: média=2,399.74, IC95%=(2,282.41, 2,517.08), n=500
+Atraso (dias): média=0.45, IC95%=(0.31, 0.58), n=500
+Taxa de atraso: 42.20% (IC95%: 37.87%–46.53%, n=500)
+Taxa de cancelamento: 11.40% (IC95%: 8.61%–14.19%, n=500)
