@@ -1,6 +1,6 @@
 # Relatório Analítico — E-commerce
 
-**Equipe:** _preencha com os nomes (máx. 3)._
+**Equipe:** Beatriz Paredes, Catarina Loureiro, Isabella Batista._
 
 **Autora/Autor (entrega individual):** _seu nome aqui._
 
